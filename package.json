@@ -1,0 +1,19 @@
+{
+  "author": "Makara Wang <makara@wiredcraft.com> (https://github.com/makara)",
+  "name": "bones-page",
+  "description": "",
+  "version": "0.0.1",
+  "keywords": [
+    "bones",
+    "page"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/makara/bones-page.git"
+  },
+  "dependencies": {
+    "page": "~1.3.0"
+  },
+  "devDependencies": {},
+  "scripts": {}
+}

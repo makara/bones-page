@@ -1,2 +1,2 @@
-bones-page
-==========
+# Bones page
+

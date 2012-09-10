@@ -1,3 +1,11 @@
+.*
+!.gitignore
+!.npmignore
+
+*.orig
+
+/node_modules/*
+
 lib-cov
 *.seed
 *.log
@@ -13,3 +21,4 @@ results
 
 node_modules
 npm-debug.log
+
